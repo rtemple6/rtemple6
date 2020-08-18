@@ -1,6 +1,6 @@
 # Hi, I'm Ryan 🤓💻
 
-#### I'm an mobile app developer working in NYC.
+#### I'm a mobile app developer working in NYC.
 
 - 🌼 I'm currently working at **Geneva Chat**
 - ❤️ I'm passionate about building apps that connect people
@@ -10,6 +10,3 @@
 - 🔥 Motto: Work Smarter **AND** Harder.
 
 ### 🌍 [ryantemple.com](https://ryantemple.com)
-
----
-⭐️ From [rtemple6](https://github.com/rtemple6)
