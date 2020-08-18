@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Ryan 🤓💻
 
-<!--
-**rtemple6/rtemple6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm an mobile app developer working in NYC.
 
-Here are some ideas to get you started:
+- 🌼 I'm currently working at **Geneva Chat**
+- ❤️ I'm passionate about building apps that connect people
+- 📱 Apps I've developed [Geneva Chat](https://www.genevachat.com), [The College App](https://thecollegeapp.co), [Foggy Glasses](https://foggyglassesnews.com), [VR Site Tour](https://vrsitetour.com)
+- 🌱 Learning all about **Swift UI**, **Elastic Search**
+- 💬 Let's chat about **iOS**, **Firebase**, **Design**, **Music Production**, **After Effects**, **Photoshop**, **Fitness**, **Fortnite**
+- 🔥 Motto: Work Smarter **AND** Harder.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 [ryantemple.com](https://ryantemple.com)
+
+---
+⭐️ From [rtemple6](https://github.com/rtemple6)
