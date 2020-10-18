@@ -10,5 +10,5 @@
 - 🚀 Work smarter ~~not~~ and harder
 - 🎶 I also make music for fun: **YouTube - [temple beats](https://www.youtube.com/channel/UC_A9jQUsdvtHYB2D6ZnP5XQ)**
 
-### 🌍 [ryantemple.com](https://ryantemple.com)
+### 🌍 [ryantemple.com](https://www.ryantemple.com)
 
