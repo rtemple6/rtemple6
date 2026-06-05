@@ -1,4 +1,4 @@
-<a href="https://www.ryantemple.com">
+<a href="https://ryantemple.com">
   <img src="https://raw.githubusercontent.com/rtemple6/rtemple6/main/banner.svg?v=1" alt="Ryan Temple, software engineer, product designer, and builder in Hoboken, NJ. Building things that connect people." width="100%">
 </a>
 
@@ -81,7 +81,7 @@ iOS is home, but I'll reach for whatever the idea needs. Lately that's been a lo
 
 Here to build something? Looking for a builder? Want to say hi?
 
-- **Web** &nbsp;·&nbsp; [ryantemple.com](https://www.ryantemple.com)
+- **Web** &nbsp;·&nbsp; [ryantemple.com](https://ryantemple.com)
 - **LinkedIn** &nbsp;·&nbsp; [in/ryan-temple](https://www.linkedin.com/in/ryan-temple-a90314107)
 - **Instagram** &nbsp;·&nbsp; [@rtemple](https://www.instagram.com/rtemple/)
 - **Email** &nbsp;·&nbsp; [ryantempledeveloper@gmail.com](mailto:ryantempledeveloper@gmail.com)
